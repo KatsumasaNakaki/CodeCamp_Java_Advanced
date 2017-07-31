@@ -1,4 +1,4 @@
-package com.nakaki.WarGame3;
+package com.nakaki.WarGame;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

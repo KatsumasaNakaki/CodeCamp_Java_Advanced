@@ -1,4 +1,4 @@
-package com.nakaki.WarGame3;
+package com.nakaki.WarGame;
 
 /**
  * Hello world!
